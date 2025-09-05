@@ -1,0 +1,3 @@
+<div id="footer">
+  &copy; Copyright <%= java.time.Year.now() %> Mike Murach &amp; Associates
+</div>

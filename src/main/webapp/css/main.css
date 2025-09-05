@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin: 30px; line-height: 1.5; }
+h2.teal { color: teal; margin-top: 10px; }
+.form .row { margin: 10px 0; display: flex; align-items: center; gap: 10px; }
+.form label { width: 110px; text-align: left; display: inline-block; }
+.form input { padding: 6px 8px; width: 260px; }
+.btn { padding: 6px 10px; border: 1px solid #bbb; border-radius: 3px; background: #eee; cursor: pointer; }
+.btn:hover { filter: brightness(0.98); }
+.info th { text-align: left; padding-right: 12px; }
+#footer { margin-top: 25px; color: #555; font-size: 14px; }
